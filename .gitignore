@@ -1,0 +1,11 @@
+simulations/
+work/
+RTL/not/
+RTL/eth_udp_gmii/
+RTL/gmii_rgmii_gmii/
+RTL/ip/
+RTL/mipi_dsi/
+RTL/uart/
+RTL/uart_ddr3_hdmi/
+IP/
+files/files/
